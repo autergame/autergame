@@ -2,6 +2,10 @@
   <a style="text-decoration: none" href="https://github.com/autergame" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=autergame&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/></a>
   <a style="text-decoration: none" href="https://github.com/autergame" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=autergame&layout=compact&langs_count=8&theme=dracula"/></a>
 </div>
+<div align="center">
+  <img align="center" alt="github-contribution-grid-snake-dark" src="https://raw.githubusercontent.com/autergame/autergame/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+  <img align="center" alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/autergame/autergame/output/github-contribution-grid-snake.svg#gh-light-mode-only">
+</div>
 <div align="center" style="display: inline_block">
   <br>
   <img align="center" alt="C" height="40" width="50" src="https://cdn.discordapp.com/attachments/316348727537303553/997357084309979177/c-original.svg">
