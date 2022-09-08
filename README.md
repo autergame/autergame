@@ -10,7 +10,9 @@
   <br>
   <img align="center" alt="C" height="40" width="50" src="https://cdn.discordapp.com/attachments/316348727537303553/997357084309979177/c-original.svg">
   <img align="center" alt="Cplusplus" height="40" width="50" src="https://cdn.discordapp.com/attachments/316348727537303553/997357084792340580/cplusplus-original.svg">
+  <!--
   <img align="center" alt="Csharp" height="40" width="50" src="https://cdn.discordapp.com/attachments/316348727537303553/997357083911532574/csharp-original.svg">
+  -->
   <img align="center" alt="Rust" height="40" width="50" src="https://cdn.discordapp.com/attachments/316348727537303553/997357083424997446/rust-plain.svg">
   <!--
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
