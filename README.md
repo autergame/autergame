@@ -8,9 +8,9 @@
 </div>
 <div align="center" style="display: inline_block">
   <br>
-  <img align="center" alt="Rust" height="60" width="60" src="https://raw.githubusercontent.com/autergame/autergame/main/rust.svg">
   <img align="center" alt="C" height="60" width="60" src="https://raw.githubusercontent.com/autergame/autergame/main/c.svg">
   <img align="center" alt="Cplusplus" height="60" width="60" src="https://raw.githubusercontent.com/autergame/autergame/main/cplusplus.svg">
+  <img align="center" alt="Rust" height="60" width="60" src="https://raw.githubusercontent.com/autergame/autergame/main/rust.svg">
   <!--
   <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/autergame/autergame/main/csharp.svg">
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
