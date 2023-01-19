@@ -3,8 +3,11 @@
   <a style="text-decoration: none" href="https://github.com/autergame" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=autergame&layout=compact&langs_count=8&bg_color=40,40ff0f,af00ff&title_color=fff&text_color=fff"/></a>
 </div>
 <div align="center">
-  <img align="center" alt="github-contribution-grid-snake-dark" src="https://raw.githubusercontent.com/autergame/autergame/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
-  <img align="center" alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/autergame/autergame/output/github-contribution-grid-snake.svg#gh-light-mode-only">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/autergame/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/autergame/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/autergame/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 <div align="center" style="display: inline_block">
   <br>
