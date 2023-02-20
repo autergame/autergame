@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="user-select: none;">
   <a href="#">
     <div>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=autergame&layout=compact&bg_color=40,ff2600,8aff0f&title_color=fff&text_color=fff"/>
@@ -28,5 +28,6 @@
     <a href="https://twitter.com/autergame/" target="_blank"><img src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/twitter.svg"></a>
     <a href="https://www.youtube.com/autergame/" target="_blank"><img src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/youtube.svg"></a>
     <a href="https://www.instagram.com/fernando.pimenta_/" target="_blank"><img src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/instagram.svg"></a>
+    <a href="https://www.linkedin.com/in/fernando-pimenta-barbosa/" target="_blank"><img src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/linkedin.svg"></a>
   </div>
 </div>
