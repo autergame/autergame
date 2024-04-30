@@ -16,14 +16,11 @@
       <img height="60" width="60" src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/c.svg">
       <img height="60" width="60" src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/cplusplus.svg">
       <img height="60" width="60" src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/rust.svg">
-      <!--
       <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      -->
     </div>
   </a>
-  <!--
   <br>
   <div>
     <a href="https://twitter.com/autergame/" target="_blank"><img src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/twitter.svg"></a>
@@ -31,5 +28,4 @@
     <a href="https://www.instagram.com/fernando.pimenta_/" target="_blank"><img src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/instagram.svg"></a>
     <a href="https://www.linkedin.com/in/fernando-pimenta-barbosa/" target="_blank"><img src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/linkedin.svg"></a>
   </div>
-   -->
 </div>
