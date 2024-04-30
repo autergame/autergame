@@ -13,9 +13,9 @@
     </div>
     <br>
     <div>
+      <img height="60" width="60" src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/rust.svg">
       <img height="60" width="60" src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/c.svg">
       <img height="60" width="60" src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/cplusplus.svg">
-      <img height="60" width="60" src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/rust.svg">
     </div>
   </a>
 </div>
