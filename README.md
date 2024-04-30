@@ -1,31 +1,31 @@
 <div align="center" style="user-select: none;">
-  <a href="#">
-    <div>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=autergame&layout=compact&bg_color=40,ff2600,8aff0f&title_color=fff&text_color=fff"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=autergame&layout=compact&langs_count=8&bg_color=40,40ff0f,af00ff&title_color=fff&text_color=fff"/>
-    </div>
-    <div>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/autergame/platane/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/autergame/platane/output/github-contribution-grid-snake.svg">
-        <img src="https://raw.githubusercontent.com/autergame/platane/output/github-contribution-grid-snake.svg">
-      </picture>
-    </div>
-    <br>
-    <div>
-      <img height="60" width="60" src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/rust.svg">
-      <img height="60" width="60" src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/c.svg">
-      <img height="60" width="60" src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/cplusplus.svg">
-      <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    </div>
-  </a>
-  <br>
-  <div>
-    <a href="https://twitter.com/autergame/" target="_blank"><img src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/twitter.svg"></a>
-    <a href="https://www.youtube.com/autergame/" target="_blank"><img src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/youtube.svg"></a>
-    <a href="https://www.instagram.com/fernando.pimenta_/" target="_blank"><img src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/instagram.svg"></a>
-    <a href="https://www.linkedin.com/in/fernando-pimenta-barbosa/" target="_blank"><img src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/linkedin.svg"></a>
-  </div>
+	<a href="#">
+		<div>
+			<img height="180em" src="https://github-readme-stats.vercel.app/api?username=autergame&layout=compact&bg_color=40,ff2600,8aff0f&title_color=fff&text_color=fff"/>
+			<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=autergame&layout=compact&langs_count=8&bg_color=40,40ff0f,af00ff&title_color=fff&text_color=fff"/>
+		</div>
+		<div>
+			<picture>
+				<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/autergame/platane/output/github-contribution-grid-snake-dark.svg">
+				<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/autergame/platane/output/github-contribution-grid-snake.svg">
+				<img src="https://raw.githubusercontent.com/autergame/platane/output/github-contribution-grid-snake.svg">
+			</picture>
+		</div>
+		<br>
+		<div>
+			<img height="60" width="60" src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/rust.svg">
+			<img height="60" width="60" src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/c.svg">
+			<img height="60" width="60" src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/cplusplus.svg">
+			<img height="60" width="60" src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/javascript.svg">
+			<img height="60" width="60" src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/html5.svg">
+			<img height="60" width="60" src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/css3.svg">
+		</div>
+	</a>
+	<br>
+	<div>
+		<a href="https://twitter.com/autergame/" target="_blank"><img src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/twitter.svg"></a>
+		<a href="https://www.youtube.com/autergame/" target="_blank"><img src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/youtube.svg"></a>
+		<a href="https://www.instagram.com/fernando.pimenta_/" target="_blank"><img src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/instagram.svg"></a>
+		<a href="https://www.linkedin.com/in/fernando-pimenta-barbosa/" target="_blank"><img src="https://raw.githubusercontent.com/autergame/autergame/main/svgs/linkedin.svg"></a>
+	</div>
 </div>
