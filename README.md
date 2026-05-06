@@ -1,21 +1,21 @@
 <div align="center" style="user-select: none;">
 	<div align="center">
 		<picture>
-		  <source srcset="https://github-readme-stats-fast.vercel.app/api?username=fernpi&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)"/>
-		  <source srcset="https://github-readme-stats-fast.vercel.app/api?username=fernpi&show_icons=true" media="(prefers-color-scheme: light)"/>
-		  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=fernpi&show_icons=true" />
+		  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernpi&theme=dark" media="(prefers-color-scheme: dark)"/>
+		  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernpi" media="(prefers-color-scheme: light)"/>
+		  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernpi&theme=dark" />
 		</picture>
 		<picture>
-		  <source srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fernpi&layout=compact&theme=dark" media="(prefers-color-scheme: dark)"/>
-		  <source srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fernpi&layout=compact" media="(prefers-color-scheme: light)"/>
-		  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fernpi&layout=compact&theme=dark" />
+		  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernpi&theme=dark" media="(prefers-color-scheme: dark)"/>
+		  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernpi" media="(prefers-color-scheme: light)"/>
+		  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernpi&theme=dark" />
 		</picture>
 	</div>
 	<div>
 		<picture>
 			<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fernpi/platane/output/github-contribution-grid-snake-dark.svg">
 			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fernpi/platane/output/github-contribution-grid-snake.svg">
-			<img src="https://raw.githubusercontent.com/fernpi/platane/output/github-contribution-grid-snake.svg">
+			<img height="140" src="https://raw.githubusercontent.com/fernpi/platane/output/github-contribution-grid-snake.svg">
 		</picture>
 	</div>
 	<br>
